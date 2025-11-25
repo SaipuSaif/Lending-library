@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Wings of Fire",
+    "img": "/image/B1.jpg",
+    "author": "A P J Abdul Kalam",
+    "description": "An inspiring autobiography of Dr. A.P.J. Abdul Kalam, tracing his journey from a small town boy to the President of India.",
+    "link": "https://ati.dae.gov.in/ati12052021_8.pdf"
+  },
+  {
+    "id": 2,
+    "title": "The Lord of the Rings",
+    "img": "/image/b2.jpg",
+    "author": "John Ronald Reuel Tolkien",
+    "description": "An epic high-fantasy adventure about the struggle between good and evil, set in the world of Middle-earth.",
+    "link": "https://www.mrsmuellersworld.com/uploads/1/3/0/5/13054185/lord-of-the-rings-01-the-fellowship-of-the-ring_full_text.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "img": "/image/b3.jpg",
+    "author": "J. K. Rowling",
+    "description": "The beginning of Harry Potter’s magical journey as he discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+    "link": "https://kvongcmehsanalibrary.wordpress.com/wp-content/uploads/2021/07/harrypotter.pdf"
+  },
+  {
+    "id": 4,
+    "title": "King of Thorns",
+    "img": "/image/b5.jpg",
+    "author": "Mark Lawrence",
+    "description": "King of Thorns continues the dark and gripping story of Jorg Ancrath, a ruthless young prince determined to claim power over his fractured kingdom. Following the events of Prince of Thorns, Jorg faces political intrigue, betrayal, and bloody battles as he consolidates his rule. The novel combines intense action, psychological depth, and morally complex characters, exploring themes of power, revenge, and the cost of ambition.",
+    "link": "https://cdn.bookey.app/files/pdf/book/en/king-of-thorns.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Remind me Again",
+    "img": "/image/b6.jpg",
+    "author": "Joe Davis",
+    "description": "Remind Me Again: Poems and Practices for Remembering Who We Are by Joe Davis is a reflective poetry collection designed to inspire self-awareness, community connection, and purposeful living. Published in April 2023 by Sparkhouse",
+    "link": "https://ms.augsburgfortress.org/downloads/RMA_Sample_File.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Diving into the Wreck",
+    "img": "/image/b7.jpg",
+    "author": "Adrienne Rich",
+    "description": "Diving into the Wreck: Poems 1971–1972 by Adrienne Rich is a seminal poetry collection that delves into themes of identity, history, and personal transformation. Published in 1973, the collection reflects Rich's deep engagement with feminist and political concerns, marking a significant shift in her poetic focus.",
+    "link": "https://dl.ibdocs.re/LitCharts/Literature%20Guides/Diving-Into-the-Wreck-LitChart.pdf"
+  },
+  {
+    "id": 7,
+    "title": "The Heart of a Women",
+    "img": "/image/b8.jpg",
+    "author": "Maya Angelou",
+    "description": "The Heart of a Woman (1981) is the fourth installment in Maya Angelou’s acclaimed seven-part autobiography series. Spanning the years 1957 to 1962, the memoir chronicles Angelou’s transformative journey as she relocates from California to New York City with her son, Guy. In New York, she immerses herself in the vibrant community of Black artists and writers, joining the Harlem Writers Guild and becoming an active participant in the civil rights movement.",
+    "link": "https://antilogicalism.com/wp-content/uploads/2020/07/maya_angelou.pdf"
+  },
+  {
+    "id": 8,
+    "title": "The Famous Five",
+    "img": "/image/b9.jpg",
+    "author": "Beja & Natoel",
+    "description": "The Famous Five is a graphic novel adaptation of Enid Blyton’s classic adventure series, brought to life by the father-and-son duo, Béja and Nataël. This series reimagines the original tales with vibrant illustrations and dynamic storytelling, making them accessible to a new generation of readers.",
+    "link": "https://www.riceethiopia.com/wp-content/uploads/The-Famous-Five-01-Five-On-A-Treasure-Is-Enid-Blyton.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Cloud Cuckoo Land",
+    "img": "/image/b10.jpg",
+    "author": "Anthony Doerr",
+    "description": "Cloud Cuckoo Land by Anthony Doerr is a genre-blending novel that intertwines five narratives across eight centuries, all connected by an ancient Greek fable. The story follows Aethon, a shepherd who embarks on a quest to find a utopian city in the sky, encountering various transformations along the way.",
+    "link": "https://cdn.bookey.app/files/pdf/book/en/cloud-cuckoo-land.pdf"
+  },
+  {
+    "id": 10,
+    "title": "A Thousand Splendid Suns",
+    "img": "/image/b11.jpg",
+    "author": "Khaled Hosseini",
+    "description": "A Thousand Splendid Suns (2007) by Khaled Hosseini is a poignant novel that illuminates the intertwined lives of two Afghan women, Mariam and Laila, set against the backdrop of Afghanistan's tumultuous history from the 1960s to the early 2000s.",
+    "link": "http://mrsmeganparrish.weebly.com/uploads/3/8/0/5/38056115/a_thousand_splendid_sun.pdf"
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "img": "/image/b12.jpg",
+    "author": "Paulo Coelho",
+    "description": "The Alchemist by Paulo Coelho is a novel about spiritual journey, self-discovery, and fulfilling one's dreams. The story follows Santiago, a young shepherd, as he embarks on a quest to find his Personal Legend and treasure. Along the way, he learns valuable life lessons and discovers the importance of listening to his heart and trusting the universe.",
+    "link": "https://dn721507.ca.archive.org/0/items/OceanofPDF.comTheAlchemist/_OceanofPDF.com_The_Alchemist.pdf"
+  },
+  {
+    "id": 12,
+    "title": "Warlight",
+    "img": "/image/b13.jpg",
+    "author": "Micheal Ondaatje",
+    "description": "Michael Ondaatje is the author of the novel Warlight. Published in 2018, Warlight is a historical fiction novel that explores themes of memory, identity, and the lasting impact of war on individuals and families. The story follows 14-year-old Nathaniel Williams and his older sister Rachel as they navigate the complexities of post-World War II London, left in the care of enigmatic guardians while their parents are away in Singapore.",
+    "link": "https://cdn.bookey.app/files/pdf/book/en/warlight.pdf"
+  },
+  {
+    "id": 13,
+    "title": "The various haunts of Men",
+    "img": "/image/b14.jpg",
+    "author": "Susan Hill",
+    "description": "The Various Haunts of Men is a crime novel by Susan Hill, published in 2004. Its the first book in the Simon Serrailler series, which consists of 11 novels. The story revolves around the disappearance of people in the English cathedral town of Lafferton, particularly on the Hill, where a woman vanishes in the fog, followed by a young girl, an old man, and even a dog. Detective Chief Inspector Simon Serrailler and young policewoman Freya Graffham team up to unravel the mystery behind these disappearances.",
+    "link": "https://cdn.bookey.app/files/pdf/book/en/the-various-haunts-of-men.pdf"
+  },
+  {
+    "id": 14,
+    "title": "The Foundling",
+    "img": "/image/b15.jpg",
+    "author": "Ann Leary",
+    "description": "The Foundling is a historical fiction novel by Ann Leary, published on May 31, 2022. The story revolves around Mary Engle, an 18-year-old secretary who starts working at the Nettleton State Village for Feebleminded Women of Childbearing Age in 1927. Mary discovers that one of the inmates, Lillian, is a friend from her orphanage days, and Lillian's presence sparks a journey of self-discovery and moral awakening for Mary.",
+    "link": "https://archive.org/details/foundling00heye/page/n3/mode/2up"
+  },
+  {
+    "id": 15,
+    "title": "Sparrows in the Winds",
+    "img": "/image/b16.jpg",
+    "author": "Gail Carson Levine",
+    "description": "Sparrows in the Wind is a fantasy adventure novel by Gail Carson Levine, published in 2022. The story revolves around Cassandra, a 14-year-old princess of Troy, who is cursed by the god Apollo to see the future but never be believed. This curse sets the stage for an epic retelling of the Trojan War, where Cassandra, aided by Eurus, the mischievous god of the east wind, tries to change the course of fate.",
+    "link": "https://gailcarsonlevine.com/sparrows.html"
+  }
+]
