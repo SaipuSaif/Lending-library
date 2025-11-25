@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Components/Home.jsx";
 
 import AllBooks from "./Components/AllBooks.jsx";
-import booksData from "./books.json"; // 👈 import JSON directly
+import booksData from "../public/Books.json"; 
 import BookDetails from "./Components/Bookdetails.jsx";
 import Enquiry from "./Components/Enquiry.jsx";
 
